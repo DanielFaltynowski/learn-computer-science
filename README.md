@@ -68,4 +68,6 @@ Have questions or suggestions? Feel free to reach out to me:
 
 1. [John V. Guttag. Introduction to Computation and Programming Using Python With Application to Understanding Data. MIT Press. 2016](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629)
 
-2. 
+2. [Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. Introduction to Algorithms. MIT Press. 2022](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X)
+
+3. [GeeksForGeeks](https://www.geeksforgeeks.org)
